@@ -33,16 +33,6 @@ body {
     width: 25%;
 }
 
-.link-img-escola{
-display: inline;
-
-
-}
-
-.link-img-escola a{
-    text-decoration: none;
-    color: white;
-}
 #escola{
     background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
