@@ -34,9 +34,12 @@ body {
 }
 
 .link-img-escola{
-height: 20%;
-width: 20%;
+color: red;
 
+}
+
+.link-img-escola a{
+    color:red;
 }
 #escola{
     background-image: linear-gradient(#424E61,#16CFF8);
