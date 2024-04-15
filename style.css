@@ -34,12 +34,14 @@ body {
 }
 
 .link-img-escola{
-color: red;
+display: inline;
+
 
 }
 
 .link-img-escola a{
-    color:red;
+    text-decoration: none;
+    color: white;
 }
 #escola{
     background-image: linear-gradient(#424E61,#16CFF8);
