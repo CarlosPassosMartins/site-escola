@@ -15,13 +15,13 @@ body {
 }
 
 .cabecalho-imagem{
-    width: 25%;
+    width: 15%;
 }
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 16px;
-    font-size: 16px;
+    margin: 0 20px;
+    font-size: 20px;
 }
 
 .cabecalho-lista-item a{
