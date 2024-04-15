@@ -21,7 +21,7 @@ body {
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 20px;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .cabecalho-lista-item a{
