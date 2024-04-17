@@ -15,7 +15,7 @@ body {
 }
 
 .cabecalho-imagem{
-    width: 15%;
+    width: 100%;
 }
 
 
@@ -102,5 +102,5 @@ color: white;
 }
 .cabecalho-div{
     display: grid;
-    grid-template-columns: 25% 50% 25%;
+    grid-template-columns: 15% 70% 15%;
 }
