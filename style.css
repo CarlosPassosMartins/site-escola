@@ -94,3 +94,9 @@ body {
 color: white;
 
 }
+
+@media screen and (max-width: 768px) {
+  .estudante-todos{
+    grid-templete-columns: 50% 50%;
+  }
+}
