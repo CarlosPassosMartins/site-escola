@@ -78,7 +78,7 @@ body {
 .estudante-todos{
     margin: 0 20%;
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-columns: repeat(3,1fr);
 }
 
 .rodape{
