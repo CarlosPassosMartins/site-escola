@@ -105,6 +105,10 @@ color: white;
     width: 50%;
   }
 
+  .escola-div-conteudo{
+    width: 75%;
+  }
+
   .estudante-todos{
     margin: 0;
     grid-template-columns: repeat(2, 1fr);
