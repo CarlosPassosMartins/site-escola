@@ -96,12 +96,17 @@ color: white;
 
 }
 
-  @media (max-width: 768px) {
-    #escola{
-      flex-direction:collum;
-}
-    .estudante-todos{
-      margin: 0;
-      grid-template-columns: repeat(2, 1fr);
-    }
+@media (max-width: 768px) {
+  #escola{
+   flex-direction: column;
   }
+
+  .escola-imagem{
+    width: 50%;
+  }
+
+  .estudante-todos{
+    margin: 0;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
